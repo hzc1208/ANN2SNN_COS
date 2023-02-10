@@ -1,6 +1,6 @@
-# Bridging The Gap Between ANNs and SNNs By Calibrating Offset Spikes
+# Bridging the Gap between ANNs and SNNs by Calibrating Offset Spikes
 
-Codes for **Bridging The Gap Between ANNs and SNNs By Calibrating Offset Spikes** in *International Conference on Learning Representations (2023)*.
+Codes for **Bridging the Gap between ANNs and SNNs by Calibrating Offset Spikes** in *International Conference on Learning Representations (2023)*.
 
 ## Paper
 
